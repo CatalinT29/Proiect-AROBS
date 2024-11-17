@@ -1,0 +1,3 @@
+Nivel minim de amplitudine: 0.0
+Nivel maxim de amplitudine: 19822.5
+Nivel mediu de amplitudine: 2607.87
